@@ -1,0 +1,9 @@
+D:\Learning\ProductAPI\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Learning\ProductAPI\DataAccess\bin\Debug\DataAccess.dll
+D:\Learning\ProductAPI\DataAccess\bin\Debug\DataAccess.pdb
+D:\Learning\ProductAPI\DataAccess\bin\Debug\EntityFramework.dll
+D:\Learning\ProductAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learning\ProductAPI\DataAccess\bin\Debug\EntityFramework.xml
+D:\Learning\ProductAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learning\ProductAPI\DataAccess\obj\Debug\DataAccess.dll
+D:\Learning\ProductAPI\DataAccess\obj\Debug\DataAccess.pdb
